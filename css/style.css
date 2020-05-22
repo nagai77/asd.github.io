@@ -1,0 +1,25 @@
+@font-face {
+    font-family: DEATHNOTEFont;
+    src: url(/DeathNote/fonts/DEATHNOTEFont.ttf);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: black;
+}
+
+
+
+h1 {
+    color: white;
+    font-family: DEATHNOTEFont;
+}
+
+
+
+h5 {
+    text-align: center, justify;
+}
+
